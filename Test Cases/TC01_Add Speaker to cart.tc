@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01_Add Speaker to cart</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>124c9af7-bcee-4028-8aa9-7ac35f727031</testCaseGuid>
+</TestCaseEntity>
